@@ -1,0 +1,93 @@
+body{
+	background-image: url(/assets/images/wildnout.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	text-align: center;
+}
+
+.text-muted{
+    color: red;
+    font-weight: 700;
+	text-shadow: -5px 1px 11px #000;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+.jumbotron-fluid {
+    -webkit-box-shadow: -4px 2px 40px 16px rgba(0,0,0,0.77);
+-moz-box-shadow: -4px 2px 40px 16px rgba(0,0,0,0.77);
+box-shadow: -4px 2px 40px 16px rgba(0,0,0,0.77);
+}
+
+.btn-info {
+    background-color: black;
+   -webkit-box-shadow: 6px 20px 97px 28px rgba(255,0,0,0.48);
+-moz-box-shadow: 6px 20px 97px 28px rgba(255,0,0,0.48);
+box-shadow: 6px 20px 97px 28px rgba(255,0,0,0.48);
+    border-color: black;
+    
+}
+.btn-info:hover {
+    color: #fff;
+    background-color: red;
+    border-color: black;
+}
+.btn-info.disabled:hover,
+.btn-info[disabled]:hover,
+fieldset[disabled] .btn-info:hover,
+.btn-info.disabled:focus,
+.btn-info[disabled]:focus,
+fieldset[disabled] .btn-info:focus,
+.btn-info.disabled.focus,
+.btn-info[disabled].focus,
+fieldset[disabled] .btn-info.focus {
+  background-color: red;
+  border-color: black;
+}
+.btn-info .badge {
+  color: red;
+  background-color: #fff;
+}
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: red;
+  border-color: black;
+}
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  color: #fff;
+  background-color: red;
+  border-color: black;
+}
+.btn-info:active,
+.btn-info.active,
+.open > .dropdown-toggle.btn-info {
+  color: #fff;
+  background-color: red;
+  border-color: black;
+}
+.btn-info:active:hover,
+.btn-info.active:hover,
+.open > .dropdown-toggle.btn-info:hover,
+.btn-info:active:focus,
+.btn-info.active:focus,
+.open > .dropdown-toggle.btn-info:focus,
+.btn-info:active.focus,
+.btn-info.active.focus,
+.open > .dropdown-toggle.btn-info.focus {
+  color: #fff;
+  background-color: red;
+  border-color: black;
+}
